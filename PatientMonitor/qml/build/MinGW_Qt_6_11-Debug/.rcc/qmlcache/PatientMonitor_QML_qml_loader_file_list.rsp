@@ -1,8 +1,0 @@
---resource
-C:/Users/Admin/Documents/Claude/Projects/Freelauncing-1/PatientMonitor/qml/build/MinGW_Qt_6_11-Debug/.qt/rcc/qmake_PatientMonitor.qrc
---resource
-C:/Users/Admin/Documents/Claude/Projects/Freelauncing-1/PatientMonitor/qml/build/MinGW_Qt_6_11-Debug/.qt/rcc/PatientMonitor_QML_raw_qml_0.qrc
-/PatientMonitor/qml/main.qml
-/PatientMonitor/qml/VitalCard.qml
-/PatientMonitor/qml/WaveformView.qml
-/PatientMonitor/qml/AlarmPanel.qml

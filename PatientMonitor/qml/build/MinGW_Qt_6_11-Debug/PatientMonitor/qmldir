@@ -1,8 +1,0 @@
-module PatientMonitor
-typeinfo PatientMonitor_QML.qmltypes
-prefer :/PatientMonitor/
-VitalCard 1.0 qml/VitalCard.qml
-WaveformView 1.0 qml/WaveformView.qml
-AlarmPanel 1.0 qml/AlarmPanel.qml
-depends QtQuick
-

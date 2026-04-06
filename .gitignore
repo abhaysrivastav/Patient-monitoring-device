@@ -9,3 +9,11 @@ START_HERE_STATUS.md
 
 # Ignore local Copilot/Claude workspace settings
 .claude/
+
+# Ignore Qt Creator user workspace data
+.qtcreator/
+
+# Ignore build output directories
+build/
+**/build/
+**/build/**

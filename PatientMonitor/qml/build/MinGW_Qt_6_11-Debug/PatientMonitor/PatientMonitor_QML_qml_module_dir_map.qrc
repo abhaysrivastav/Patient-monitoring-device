@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/PatientMonitor">C:/Users/Admin/Documents/Claude/Projects/Freelauncing-1/PatientMonitor/qml/build/MinGW_Qt_6_11-Debug/PatientMonitor</file>
-
-  </qresource>
-</RCC>

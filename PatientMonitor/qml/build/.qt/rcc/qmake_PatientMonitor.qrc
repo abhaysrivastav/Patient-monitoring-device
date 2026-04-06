@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/PatientMonitor">
-    <file alias="qmldir">C:/Users/Admin/Documents/Claude/Projects/Freelauncing-1/PatientMonitor/qml/build/PatientMonitor/qmldir</file>
-  </qresource>
-</RCC>
-
