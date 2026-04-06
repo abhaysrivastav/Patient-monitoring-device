@@ -6,3 +6,6 @@ MIGRATION_GUIDE.md
 QML_BUILD_SIMPLE_GUIDE.md
 QML_QUICK_REFERENCE.md
 START_HERE_STATUS.md
+
+# Ignore local Copilot/Claude workspace settings
+.claude/
