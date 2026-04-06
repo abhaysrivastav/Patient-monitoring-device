@@ -1,0 +1,8 @@
+# Ignore instruction and guide markdown files at workspace root
+BUILD_AND_TEST_GUIDE.md
+DOCUMENTATION_INDEX.md
+MANUAL_BUILD_GUIDE.md
+MIGRATION_GUIDE.md
+QML_BUILD_SIMPLE_GUIDE.md
+QML_QUICK_REFERENCE.md
+START_HERE_STATUS.md
