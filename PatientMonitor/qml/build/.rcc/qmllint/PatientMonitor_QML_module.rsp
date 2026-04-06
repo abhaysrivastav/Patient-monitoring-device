@@ -1,0 +1,14 @@
+-I
+C:/Users/Admin/Documents/Claude/Projects/Freelauncing-1/PatientMonitor/qml/build
+-I
+C:/Users/Admin/Documents/Claude/Projects/Freelauncing-1/PatientMonitor/qml/build/PatientMonitor
+-I
+C:/Users/Admin/Documents/Claude/Projects/Freelauncing-1/PatientMonitor/qml/build
+-I
+C:/msys64/mingw64/share/qt6/qml
+--resource
+C:/Users/Admin/Documents/Claude/Projects/Freelauncing-1/PatientMonitor/qml/build/.qt/rcc/qmake_PatientMonitor.qrc
+--resource
+C:/Users/Admin/Documents/Claude/Projects/Freelauncing-1/PatientMonitor/qml/build/.qt/rcc/PatientMonitor_QML_raw_qml_0.qrc
+--module
+PatientMonitor

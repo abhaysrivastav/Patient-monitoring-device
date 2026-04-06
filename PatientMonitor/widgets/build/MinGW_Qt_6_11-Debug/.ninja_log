@@ -1,0 +1,10 @@
+# ninja log v7
+6	596	7969914795323779	PatientMonitor_Widgets_autogen/timestamp	6d7dd7b9e4571b1c
+6	596	7969914795323779	PatientMonitor_Widgets_autogen/mocs_compilation.cpp	6d7dd7b9e4571b1c
+6	596	7969914795323779	C:/Users/Admin/Documents/Claude/Projects/Freelauncing-1/PatientMonitor/widgets/build/MinGW_Qt_6_11-Debug/PatientMonitor_Widgets_autogen/timestamp	6d7dd7b9e4571b1c
+6	596	7969914795323779	C:/Users/Admin/Documents/Claude/Projects/Freelauncing-1/PatientMonitor/widgets/build/MinGW_Qt_6_11-Debug/PatientMonitor_Widgets_autogen/mocs_compilation.cpp	6d7dd7b9e4571b1c
+615	2694	7969914796067576	CMakeFiles/PatientMonitor_Widgets.dir/waveformwidget.cpp.obj	7090e3def2b9363
+606	2871	7969914795989265	CMakeFiles/PatientMonitor_Widgets.dir/main.cpp.obj	1022a8b5bf155221
+602	3049	7969914795939312	CMakeFiles/PatientMonitor_Widgets.dir/PatientMonitor_Widgets_autogen/mocs_compilation.cpp.obj	1547307168b9ca09
+610	3242	7969914795989265	CMakeFiles/PatientMonitor_Widgets.dir/mainwindow.cpp.obj	f9c88d0f11c85071
+3242	3427	7969914822348769	PatientMonitor_Widgets.exe	8253f9b085da9435

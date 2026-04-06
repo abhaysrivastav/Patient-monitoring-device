@@ -1,0 +1,5 @@
+C:/Users/Admin/Documents/Claude/Projects/Freelauncing-1/PatientMonitor/widgets/build/CMakeFiles/PatientMonitor_Widgets.dir
+C:/Users/Admin/Documents/Claude/Projects/Freelauncing-1/PatientMonitor/widgets/build/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Documents/Claude/Projects/Freelauncing-1/PatientMonitor/widgets/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Admin/Documents/Claude/Projects/Freelauncing-1/PatientMonitor/widgets/build/CMakeFiles/PatientMonitor_Widgets_autogen_timestamp_deps.dir
+C:/Users/Admin/Documents/Claude/Projects/Freelauncing-1/PatientMonitor/widgets/build/CMakeFiles/PatientMonitor_Widgets_autogen.dir

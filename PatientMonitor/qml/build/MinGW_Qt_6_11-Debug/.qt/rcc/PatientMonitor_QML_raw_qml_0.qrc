@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/PatientMonitor/">
+    <file alias="qml/main.qml">C:/Users/Admin/Documents/Claude/Projects/Freelauncing-1/PatientMonitor/qml/qml/main.qml</file>
+    <file alias="qml/VitalCard.qml">C:/Users/Admin/Documents/Claude/Projects/Freelauncing-1/PatientMonitor/qml/qml/VitalCard.qml</file>
+    <file alias="qml/WaveformView.qml">C:/Users/Admin/Documents/Claude/Projects/Freelauncing-1/PatientMonitor/qml/qml/WaveformView.qml</file>
+    <file alias="qml/AlarmPanel.qml">C:/Users/Admin/Documents/Claude/Projects/Freelauncing-1/PatientMonitor/qml/qml/AlarmPanel.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/c/msys64/usr/bin/pacman -Ss \"mingw.*qt6.*quick\")",
+      "Bash(/c/msys64/usr/bin/pacman -Ss \"mingw-w64-x86_64-qt6-declarative\")",
+      "Bash(/c/msys64/usr/bin/pacman -S --noconfirm mingw-w64-x86_64-qt6-declarative)",
+      "Bash(/c/msys64/usr/bin/pacman -Ss \"qtcreator\")"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/PatientMonitor">
+        <file>qml/main.qml</file>
+        <file>qml/VitalCard.qml</file>
+        <file>qml/WaveformView.qml</file>
+        <file>qml/AlarmPanel.qml</file>
+    </qresource>
+</RCC>
